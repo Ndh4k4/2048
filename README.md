@@ -1,2 +1,0 @@
-# project
-just read me
